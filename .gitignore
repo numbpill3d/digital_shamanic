@@ -1,0 +1,32 @@
+# Node.js files
+node_modules/
+
+# OS-specific files
+.DS_Store
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment variables
+.env
+
+# Optional: Exclude sensitive files
+# *.secret
+
+# Optional: Exclude test coverage reports
+coverage/
+
+# Optional: Exclude package-lock.json (if you prefer yarn.lock)
+# package-lock.json
